@@ -6,6 +6,8 @@ Myself Arpitha Bhandary Studying in Adi Shankara institute of Engineering and Te
 - 🌱 I’m currently learning Java and a lil bit of c
 - 💬 Ask me about Python language 
 - 📫 How to reach me:mearpithabhandary@gmail.com
+- 🤗 I'm doing my *engineering in AI* and enjoying every bit of it!
+- 🔗 Connect with me on Linkedn:Arpitha Bhandary
 
 
 
