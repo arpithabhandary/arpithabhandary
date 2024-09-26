@@ -1,4 +1,4 @@
-## Hi there 👋
+## Heyaaaaa!! 👋
 Myself Arpitha Bhandary Studying in Adi Shankara institute of Engineering and Technology
 
 
