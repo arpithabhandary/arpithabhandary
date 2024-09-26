@@ -1,5 +1,5 @@
 ## Heyaaaaa!! 👋
-Myself Arpitha Bhandary Studying in Adi Shankara institute of Engineering and Technology
+Myself Arpitha Bhandary Studying at Adi Shankara institute of Engineering and Technology
 
 
 - 🔭 I’m currently working on Learning something new and interesting!!!
