@@ -9,3 +9,5 @@ AI Student | Web Developer | Hackathon Enthusiast
 
 ## 📊 GitHub graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arpithabhandary&theme=react-dark)
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
