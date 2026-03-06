@@ -8,4 +8,4 @@ AI Student | Web Developer | Hackathon Enthusiast
 ![My Skills](https://skillicons.dev/icons?i=python,java,react,html,css,js,tensorflow)
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=arpithabhandary&show_icons=true&theme=radical)
