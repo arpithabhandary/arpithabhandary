@@ -8,4 +8,4 @@ AI Student | Web Developer | Hackathon Enthusiast
 ![My Skills](https://skillicons.dev/icons?i=python,java,react,html,css,js,tensorflow)
 
 ## 📊 GitHub Stats
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arpithabhandary&theme=radical">
