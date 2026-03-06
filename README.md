@@ -5,7 +5,7 @@ AI Student | Web Developer | Hackathon Enthusiast
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Student;Web+Developer;Hackathon+Winner)
 
 ## 🚀 Skills
-![My Skills](https://skillicons.dev/icons?i=python,java,react,html,css,js,tensorflow)
+<img src="https://skillicons.dev/icons?i=python,java,react,html,css,js,tensorflow,git&perline=8">
 
-## 📊 GitHub Stats
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arpithabhandary&theme=radical">
+## 📊 GitHub graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
