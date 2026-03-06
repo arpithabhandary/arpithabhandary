@@ -8,4 +8,4 @@ AI Student | Web Developer | Hackathon Enthusiast
 <img src="https://skillicons.dev/icons?i=python,java,react,html,css,js,tensorflow,git&perline=8">
 
 ## 📊 GitHub graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arpithabhandary&theme=react-dark)
