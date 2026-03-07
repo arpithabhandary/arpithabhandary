@@ -1,6 +1,6 @@
 # Hi 👋 I'm Arpitha Bhandary
 
-AI Student | Web Developer | Hackathon Enthusiast
+AI Student | Web Developer 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Student;Web+Developer;Machine+Learning;)
 
